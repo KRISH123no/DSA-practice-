@@ -28,7 +28,7 @@ print(x)"""
 """y = list.count(4)
 print(y)"""
 
-#list.extend(doubt -- why newlist gets the output as none)
+#list.extend(--doubts -- why newlist gets the output as none)
 """list1 = [1,4,5]
 list2=[4,7,8]
 newlist=list1.extend(list2)
@@ -49,7 +49,7 @@ print(list)"""
 print(list)"""
 
 
-#list.remove(doubt -- why not remove the second 4 also )remove the element from list 
+#list.remove(--doubts -- why not remove the second 4 also )remove the element from list 
 """list.remove(4)
 print(list)"""
 #list.remove 
