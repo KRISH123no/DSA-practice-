@@ -44,10 +44,10 @@ print(x)
 list.insert(4,8)
 print(list)
 
-#list.pop
+#list.pop - remove the index 
 list.pop(4)
 print(list)
- #list.remove(doubt -- why not remove the second 4 also )
+#list.remove(doubt -- why not remove the second 4 also )
 list.remove(4)
 print(list)
 #list.remove 
