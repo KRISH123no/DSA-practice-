@@ -54,3 +54,14 @@ print(list)
 list.reverse()
 print(list)
 #list.sort()to sort the list 
+
+#list compresension 
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+newlist = [x for x in fruits if "a" in x]
+
+print(newlist)
+fruit = input("your fav fruit")
+
+newlist = [x for x in fruit]
+
+print(newlist)
