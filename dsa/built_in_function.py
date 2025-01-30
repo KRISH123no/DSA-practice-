@@ -57,7 +57,7 @@ for x in adults:
 
 """map"""
 def myfunc(a):
-  return len(a)
+  return len(a) 
 
 x = map(myfunc, ('apple', 'banana', 'cherry'))
 
@@ -73,4 +73,4 @@ nums = [ 54,32,23,23,23,23,23]
 def sum(a,b):
   return a+b
 sum = reduce(sum,nums)
-print(sum)
+print(sum) 

@@ -1,5 +1,5 @@
 #to check palindrome
-"""
+
 word_to_check =input("input the word to be checked")
 list =[x for  x in word_to_check]
 ispalindrome = False
@@ -14,7 +14,7 @@ if ispalindrome:
     print("string is a palindrome")
 else :
     print("not a palindrome")
-"""
+
 
 #using dictionary to check anagrams 
 
